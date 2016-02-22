@@ -1,0 +1,19 @@
+{
+  "name": "lite-template",
+  "version": "1.0.0",
+  "description": "Super lite weight template engine",
+  "main": "liteTemplate.js",
+  "scripts": {
+    "build": "node_modules/.bin/uglifyjs liteTemplate.js -o liteTempalte.min.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "template"
+  ],
+  "author": "Isken Huang",
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "~2.6.1"
+  }
+}
