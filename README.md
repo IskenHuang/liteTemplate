@@ -1,4 +1,4 @@
-# lite-template
+# liteTemplate
 
 Super lite weight template engine(just key value replace).
 
