@@ -19,4 +19,4 @@ document.querySelector('body').innerHTML = html;
 ```
 
 # Test
-todo...
+`open test/index.html`
